@@ -1,0 +1,9 @@
+﻿Build started 8/27/2015 1:06:38 PM.
+     1>Project "E:\School\Fall 2015\Advanced Programing Tech\Notes 1\Notes 1\Notes 1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): warning MSB4220: Waiting for the currently executing task "CL" to cancel.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): warning MSB4220: Waiting for the currently executing task "CL" to cancel.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): warning MSB4220: Waiting for the currently executing task "CL" to cancel.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): warning MSB4220: Waiting for the currently executing task "CL" to cancel.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): warning MSB4220: Waiting for the currently executing task "CL" to cancel.

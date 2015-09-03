@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prog 4 - 12356 - Army Buddies", "Prog 4 - 12356 - Army Buddies\Prog 4 - 12356 - Army Buddies.vcxproj", "{B62E7DA4-06C4-465A-9CCD-7E291306A5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62E7DA4-06C4-465A-9CCD-7E291306A5CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B62E7DA4-06C4-465A-9CCD-7E291306A5CE}.Debug|Win32.Build.0 = Debug|Win32
+		{B62E7DA4-06C4-465A-9CCD-7E291306A5CE}.Release|Win32.ActiveCfg = Release|Win32
+		{B62E7DA4-06C4-465A-9CCD-7E291306A5CE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
