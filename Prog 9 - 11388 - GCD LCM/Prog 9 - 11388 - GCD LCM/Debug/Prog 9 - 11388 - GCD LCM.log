@@ -1,0 +1,14 @@
+﻿Build started 9/24/2015 1:32:53 PM.
+     1>Project "E:\School\Fall 2015\Advanced Programing Tech\Prog 9 - 11388 - GCD LCM\Prog 9 - 11388 - GCD LCM\Prog 9 - 11388 - GCD LCM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Prog 9 - 11388 - GCD LCM.cpp"
+         Prog 9 - 11388 - GCD LCM.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\School\Fall 2015\Advanced Programing Tech\Prog 9 - 11388 - GCD LCM\Debug\Prog 9 - 11388 - GCD LCM.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\School\Fall 2015\Advanced Programing Tech\Prog 9 - 11388 - GCD LCM\Debug\Prog 9 - 11388 - GCD LCM.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\School\Fall 2015\Advanced Programing Tech\Prog 9 - 11388 - GCD LCM\Debug\Prog 9 - 11388 - GCD LCM.lib" /MACHINE:X86 "Debug\Prog 9 - 11388 - GCD LCM.obj"
+         Debug\stdafx.obj
+         Prog 9 - 11388 - GCD LCM.vcxproj -> E:\School\Fall 2015\Advanced Programing Tech\Prog 9 - 11388 - GCD LCM\Debug\Prog 9 - 11388 - GCD LCM.exe
+     1>Done Building Project "E:\School\Fall 2015\Advanced Programing Tech\Prog 9 - 11388 - GCD LCM\Prog 9 - 11388 - GCD LCM\Prog 9 - 11388 - GCD LCM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70

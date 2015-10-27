@@ -3,6 +3,7 @@
 // Class : CMPS 4883 Advanced Programing Techniques
 // Date : 1 September 2015
 // Program 0 - 11172 - Relational Operator
+// I, Taylor Murphy, State that all of the following is my code.
 ////////////////////////////////////////////////////
 /*
 11172 - Relational Operator
@@ -42,8 +43,7 @@ int main(int argc, char* argv[])
 	int t = 0;
 	long long a = 0;
 	long long b = 0;
-
-
+	
 	cin >> t;
 
 	while (t)
@@ -67,7 +67,5 @@ int main(int argc, char* argv[])
 
 		t--;
 	}
-
-
 	return 0;
 }

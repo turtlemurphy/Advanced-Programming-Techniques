@@ -1,6 +1,10 @@
-//Taylor Murphy
-//Adv. Prog. Tech
-//9/1/2015
+////////////////////////////////////////////////////
+// Name: Taylor Murphy
+// Class : CMPS 4883 Advanced Programing Techniques
+// Date : 1 September 2015
+// Program 4 - 12356 - Army Buddies
+// I, Taylor Murphy, State that all of the following is my code.
+////////////////////////////////////////////////////
 /*
 12356 - Army Buddies
 
@@ -62,6 +66,9 @@ Sample Output
 -
 * 2
 -
+
+use a vector or a list
+
 
 */
 

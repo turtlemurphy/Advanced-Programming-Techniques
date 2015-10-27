@@ -3,6 +3,7 @@
 // Class : CMPS 4883 Advanced Programing Techniques
 // Date : 1 September 2015
 // Program 1 - 12015 - Google is Feeling Lucky
+// I, Taylor Murphy, State that all of the following is my code.
 ////////////////////////////////////////////////////
 /*
 12015 - Google is Feeling Lucky

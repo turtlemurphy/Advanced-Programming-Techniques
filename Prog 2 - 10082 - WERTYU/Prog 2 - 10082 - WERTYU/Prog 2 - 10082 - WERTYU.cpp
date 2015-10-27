@@ -3,6 +3,7 @@
 // Class : CMPS 4883 Advanced Programing Techniques
 // Date : 1 September 2015
 // Program 2 - 10082 - WERTYU
+// I, Taylor Murphy, State that all of the following is my code.
 ////////////////////////////////////////////////////
 /*
 10082 - WERTYU
@@ -30,13 +31,23 @@ I AM FINE TODAY.
 
 #include <iostream>
 #include <string>
+#include <vector>
 using namespace std;
 
 int main(int argc, char* argv[])
 {
-	string Alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890  /'][;.,";
-	string AlphaShift = "";
+	string AlphaInput =  "BCDEFGHIJKLMNOPRSTUVWXY,;[";
+	string AlphaOutput = "VXSWDFGUHJKNBIOEARYCQZTMLP";
+	string input;
+	string output;
+	string::iterator it;
+	
+	getline(cin, input);
 
+	for (it = input.begin(); it != input.end(); it++)
+	{
+		cout << *it;
+	}	
 
 	return 0;
 }

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prog 9 - 11388 - GCD LCM", "Prog 9 - 11388 - GCD LCM\Prog 9 - 11388 - GCD LCM.vcxproj", "{CCFAB1C4-5C59-4EBE-9BCD-26174DBAE5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCFAB1C4-5C59-4EBE-9BCD-26174DBAE5CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCFAB1C4-5C59-4EBE-9BCD-26174DBAE5CB}.Debug|Win32.Build.0 = Debug|Win32
+		{CCFAB1C4-5C59-4EBE-9BCD-26174DBAE5CB}.Release|Win32.ActiveCfg = Release|Win32
+		{CCFAB1C4-5C59-4EBE-9BCD-26174DBAE5CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
